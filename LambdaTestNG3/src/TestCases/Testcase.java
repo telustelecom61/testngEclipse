@@ -18,8 +18,8 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
 public class Testcase {
-	private String UserName = "telustelecom61";
-	private String AccessKey = "rx2K0iJeiDjGbg4lssbucGwtCnguC8fLLsR7WpAcETDt7ODGS2";
+	private String UserName = "your name";
+	private String AccessKey = "your key";
 	public WebDriver driver = null;
 	
 	@BeforeTest
