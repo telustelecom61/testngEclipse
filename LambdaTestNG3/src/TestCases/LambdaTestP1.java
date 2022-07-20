@@ -16,8 +16,8 @@ import org.testng.annotations.Test;
 
 
 public class LambdaTestP1 {
-   public String username = "telustelecom61";
-  public String accesskey = "rx2K0iJeiDjGbg4lssbucGwtCnguC8fLLsR7WpAcETDt7ODGS2";
+   public String username = "your email";
+  public String accesskey = "your token";
   public RemoteWebDriver driver = null;
   public String gridURL = "@hub.lambdatest.com/wd/hub";
   boolean status = false;
